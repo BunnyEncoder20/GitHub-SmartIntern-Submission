@@ -1,2 +1,1 @@
-# GitHub-SmartIntern-Submission
-Repo for submission
+# GitHub-Project-SpringBoot_App
